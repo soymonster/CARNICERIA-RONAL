@@ -1,0 +1,43 @@
+body{
+	font-family: Tahoma, Arial;
+}
+#ola{
+	background: #ccc;
+}
+#encabezado{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 30px;
+}
+#texto{
+	color: yellow;
+}
+#invisible{
+	padding-top: 30px;
+	padding-right: 30px;
+}
+#como{
+	text-align: left;
+	color: white;
+}
+#estas{
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+}
+#cursos{
+	background: #ccc;
+}
+div h5{color: black;}
+#volver{
+	float:right;
+	color:black;
+	padding-right: 30px;
+}
+#form{
+	text-align: center;
+}
+#video{
+	margin-left:300px; 
+	margin-right:300px;
+}
